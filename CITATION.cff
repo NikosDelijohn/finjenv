@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Deligiannis"
+  given-names: "Nikolaos"
+  orcid: "https://orcid.org/0000-0002-7948-3361"
+title: "finjenv: Fault Injection Environment for Arithmetic Circuits"
+version:1.0
+date-released: 2024-5-26
+url: "https://github.com/NikosDelijohn/finjenv"
