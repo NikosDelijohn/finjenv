@@ -16,7 +16,7 @@
 
 `include "tb_utils.sv"
 
-module multiplier_tb();
+module testbench();
 
     // TIMING // 
     initial $timeformat(-9, 0, "ns", 9); 
