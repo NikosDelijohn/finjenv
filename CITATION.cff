@@ -5,6 +5,6 @@ authors:
   given-names: "Nikolaos"
   orcid: "https://orcid.org/0000-0002-7948-3361"
 title: "finjenv: Fault Injection Environment for Arithmetic Circuits"
-version:1.0
+version: 1.0
 date-released: 2024-5-26
 url: "https://github.com/NikosDelijohn/finjenv"
